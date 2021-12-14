@@ -1,0 +1,39 @@
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=utf-8
+
+
+<html>
+<head>
+	<title>Repka</title>
+</head>
+<body>
+<h1 style="text-align:center"><span style="font-family:Comic Sans MS, cursive"><span style="font-size:48px">CoolStory_p1</span></span></h1>
+
+<p><span style="font-family:Lucida Sans Unicode,Lucida Grande,sans-serif">Посадил дед репку и говорит:<br />
+&mdash; Расти, расти, репка, сладка! Расти, расти, репка, крепка!<br />
+Выросла репка сладка, крепка, большая-пребольшая.<br />
+Пошел дед репку рвать: тянет-потянет, вытянуть не может.<br />
+Позвал дед бабку.</span></p>
+
+<p><span style="font-family:Lucida Sans Unicode,Lucida Grande,sans-serif">Бабка за дедку,<br />
+Дедка за репку &mdash;</span></p>
+
+<p><span style="font-family:Lucida Sans Unicode,Lucida Grande,sans-serif">Тянут-потянут, вытянуть не могут.<br />
+Позвала бабка внучку.</span></p>
+
+<p><span style="font-family:Lucida Sans Unicode,Lucida Grande,sans-serif">Внучка за бабку,<br />
+Бабка за дедку,<br />
+Дедка за репку &mdash;</span></p>
+
+<p><span style="font-family:Lucida Sans Unicode,Lucida Grande,sans-serif">Тянут-потянут, вытянуть не могут.<br />
+Позвала внучка Жучку.</span></p>
+
+<p><span style="font-family:Lucida Sans Unicode,Lucida Grande,sans-serif">Жучка за внучку,<br />
+Внучка за бабку,<br />
+Бабка за дедку,<br />
+Дедка за репку &mdash;</span></p>
+
+<p><span style="font-family:Lucida Sans Unicode,Lucida Grande,sans-serif">Тянут-потянут, вытянуть не могут.<br />
+Позвала Жучка кошку.</span></p>
+</body>
+</html>

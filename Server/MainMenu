@@ -1,0 +1,22 @@
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=utf-8
+
+
+<html>
+<head>
+	<title>MainMenu</title>
+</head>
+<body>
+<h1 style="text-align:center"><span style="font-family:Comic Sans MS,cursive"><strong><span style="font-size:48px">Главное меню</span></strong></span></h1>
+
+<h2><span style="font-family:Comic Sans MS,cursive">Возможные варианты запросов:</span></h2>
+
+<ul>
+	<li style="margin-left: 40px;"><span style="font-family:Comic Sans MS,cursive">/Books/CoolStory_p1</span></li>
+	<li style="margin-left: 40px;"><span style="font-family:Comic Sans MS,cursive">/Books/CoolStory_p2</span></li>
+	<li style="margin-left: 40px;"><span style="font-family:Comic Sans MS,cursive">/Songs/RickRoll</span></li>
+	<li style="margin-left: 40px;"><span style="font-family:Comic Sans MS,cursive">/Pictures/Duck</span></li>
+	<li style="margin-left: 40px;"><span style="font-family:Comic Sans MS,cursive">/Pictures/Canna</span></li>
+</ul>
+</body>
+</html>

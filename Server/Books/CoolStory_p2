@@ -1,0 +1,30 @@
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=utf-8
+
+
+<html>
+<head>
+	<title>Repka</title>
+</head>
+<body>
+<h1 style="text-align:center"><span style="font-family:Comic Sans MS, cursive"><span style="font-size:48px">CoolStory_p2</span></span></h1>
+
+<p><span style="font-family:Lucida Sans Unicode,Lucida Grande,sans-serif">Кошка за Жучку,<br />
+Жучка за внучку,<br />
+Внучка за бабку,<br />
+Бабка за дедку,<br />
+Дедка за репку &mdash;</span></p>
+
+<p><span style="font-family:Lucida Sans Unicode,Lucida Grande,sans-serif">Тянут-потянут, вытянуть не могут.<br />
+Позвала кошка мышку.</span></p>
+
+<p><span style="font-family:Lucida Sans Unicode,Lucida Grande,sans-serif">Мышка за кошку,<br />
+Кошка за Жучку,<br />
+Жучка за внучку,<br />
+Внучка за бабку,<br />
+Бабка за дедку,<br />
+Дедка за репку &mdash;</span></p>
+
+<p><span style="font-family:Lucida Sans Unicode,Lucida Grande,sans-serif">Тянут-потянут &mdash; и вытянули репку.</span></p>
+</body>
+</html>
