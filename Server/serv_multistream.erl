@@ -8,7 +8,15 @@
 %%%-------------------------------------------------------------------
 -module(serv_multistream).
 -author("hillaru").
--export([passive/1, thread_send/2]).
+-export([passive/1, thread_send/2, receive_msg/0]).
+
+receive_msg() ->
+    User_list = #{1 => "Ivan", 2 => "Vasya", 3 => "Kirill", 4 => "Stass", 5 => "Oleg"},
+    receive
+        {PID, {get_user_by_id, ID}} -> io:format("~p send request ~p with parameter ~p~n", [PID, get_user_by_id, ID]),
+            Result = maps:get(ID, User_list),
+            PID ! {username, Result}
+    end.
 
 fileread(Filename) ->
     {Ans,Bin} = file:read_file(Filename),
