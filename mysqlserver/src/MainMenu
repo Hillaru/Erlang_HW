@@ -1,0 +1,20 @@
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=utf-8
+
+
+<html>
+<head>
+	<title>MainMenu</title>
+</head>
+<body>
+<h1 style="text-align:center"><span style="font-family:Comic Sans MS,cursive"><strong><span style="font-size:48px">Главное меню</span></strong></span></h1>
+
+<h2><span style="font-family:Comic Sans MS,cursive">Возможные варианты запросов:</span></h2>
+
+<ul>
+	<li style="margin-left: 30px;"><span style="font-family:Comic Sans MS,cursive"><span style="font-size:30px">/getstaff/staff_id</span></li>
+	<li style="margin-left: 30px;"><span style="font-family:Comic Sans MS,cursive"><span style="font-size:30px">/deletestaff/staff_id</span></li>
+	<li style="margin-left: 30px;"><span style="font-family:Comic Sans MS,cursive"><span style="font-size:30px">/getallstaff</span></li>
+</ul>
+</body>
+</html>
